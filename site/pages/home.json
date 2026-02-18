@@ -1,0 +1,7 @@
+{
+  "title": "Home",
+  "blocks": [
+    { "type": "Hero", "props": { "headline": "BREATHE", "subhead": "Foundation site (spec-driven)" } },
+    { "type": "Section", "props": { "headline": "Updates", "body": "GitHub AI will edit this." } }
+  ]
+}
