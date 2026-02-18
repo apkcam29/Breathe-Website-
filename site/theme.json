@@ -1,6 +1,6 @@
 {
   "typography": { "scale": "balanced", "line_height": "comfortable" },
-  "layout": { "density": "normal", "radius": "rounded", "shadow": "soft" },
+  "layout": { "density": "airy", "radius": "rounded", "shadow": "soft" },
   "color": { "scheme": "dark", "contrast": "medium", "accent_intensity": "subtle" },
   "motion": { "level": "subtle" }
 }
